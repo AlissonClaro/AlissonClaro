@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alisson Nogueira Claro</h1>
 <h3 align="center">💡 Foco em tecnologia desde sempre, desenvolvendo uma carreira como programador. Dominio em HTML, CSS e JavaScript, aplicando essas habilidades em projetos envolventes. 🚀 Atualmente, estou imerso no aprendizado Full Stack com o DevClub, focando inicialmente em (HTML, CSS, JavaScript) trilhando rumo ao Full Stack. 💻 Abraçando desafios rumo ao Desenvolvedor Full Stack. 🌐 Aberto a oportunidades, novas conexões e desafios estimulantes, construindo um futuro da tecnologia Clean e abrangente e responsavel.</h3>
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allclaro&label=Profile%20views&color=0e75b6&style=flat" alt="allclaro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=allclaro" alt="allclaro" /></a> </p>
