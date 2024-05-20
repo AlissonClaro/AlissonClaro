@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alisson Nogueira Claro</h1>
+<h1 align="center">Ola!👋, sou Alisson Nogueira Claro</h1>
 <h3 align="center">💡 Foco em tecnologia desde sempre, desenvolvendo uma carreira como programador. Dominio em HTML, CSS e JavaScript, aplicando essas habilidades em projetos envolventes. 
   🚀 Atualmente, estou imerso no aprendizado Full Stack com o DevClub, focando inicialmente em (HTML, CSS, JavaScript) trilhando rumo ao Full Stack. 
   💻 Abraçando desafios rumo ao Desenvolvedor Full Stack. 
