@@ -3,14 +3,14 @@
   🚀 Atualmente, estou imerso no aprendizado Full Stack com o DevClub, focando inicialmente em (HTML, CSS, JavaScript) trilhando rumo ao Full Stack. 
   💻 Abraçando desafios rumo ao Desenvolvedor Full Stack. 
   🌐 Aberto a oportunidades, novas conexões e desafios estimulantes, construindo um futuro da tecnologia clean, abrangente e responsavel.</h3>
-
-##
+ 
+## AllSts
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonClaro&label=Profile%20views&color=0e75b6&style=flat" alt="AlissonClaro" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AlissonClaro" alt="AlissonClaro"  /></a> </p>
 
-##
+## Estudos.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +22,7 @@
   <img align="center" alt="Alisson-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
 </div>
 
-##
+## Contato
 
 <div> 
   <a href = "mailto:allclaro@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
@@ -30,10 +30,12 @@
   
 </div>
 
-##
+## Estatistica
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlissonClaro&show_icons=true&theme=transparent)
 
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonClaro&layout=compact&theme=transparent)
+
+##
