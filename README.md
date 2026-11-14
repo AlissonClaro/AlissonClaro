@@ -1,8 +1,10 @@
 <h1 align="center">Ola!👋, sou Alisson Nogueira Claro</h1>
-<h3 align="center">💡 Foco em tecnologia desde sempre, desenvolvendo uma carreira como programador. Dominio em HTML, CSS e JavaScript, aplicando essas habilidades em projetos envolventes. 
-  🚀 Atualmente, estou imerso no aprendizado Full Stack com o DevClub, focando inicialmente em (HTML, CSS, JavaScript) trilhando rumo ao Full Stack. 
-  💻 Abraçando desafios rumo ao Desenvolvedor Full Stack. 
-  🌐 Aberto a oportunidades, novas conexões e desafios estimulantes, construindo um futuro da tecnologia clean, abrangente e responsavel.</h3>
+<h3 align="center">💡 Foco em tecnologia desde sempre, desenvolvendo uma carreira como programador.<br> Dominio em HTML, CSS e JavaScript, aplicando essas habilidades em projetos envolventes.<br> 
+  🚀 Atualmente, estou imerso no aprendizado Full Stack com o DevClub, focando inicialmente em <br>(HTML, CSS, JavaScript) trilhando rumo ao Full Stack.<br> 
+  💻 Abraçando desafios rumo ao Desenvolvedor Full Stack.<br> 
+  🌐 Aberto a oportunidades, novas conexões e desafios estimulantes, construindo um futuro da tecnologia clean, abrangente e responsavel.<br>
+  📚 Atualmente: Desenvolvimento de software multiplataforma - FATEC Marília.<br>
+  🌐 DevMenthors Unimar.</h3>
  
 ## AllSts
 
@@ -25,6 +27,9 @@
   <img align="center" alt="Alisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alisson-Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Alisson-Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Alisson-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+          
+
 </div>
 
 ## Contato
